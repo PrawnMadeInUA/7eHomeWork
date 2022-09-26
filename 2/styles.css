@@ -1,0 +1,26 @@
+body {
+	background-color: #F5F5F5;
+}
+
+.main {
+	width: 916px;
+	background-color: #FFFFFF;
+	margin: 0 auto;
+}
+
+.center {
+	text-align: center;
+	padding-top: 18px;
+}
+
+.centerH {
+	text-align: center;
+	padding-top: 0px;
+	margin-top: -20px;
+}
+
+.centerimg {
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
