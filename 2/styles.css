@@ -1,5 +1,6 @@
 body {
 	background-color: #F5F5F5;
+	font-family: 'Inter', sans-serif;
 }
 
 .main {
@@ -11,6 +12,8 @@ body {
 .center {
 	text-align: center;
 	padding-top: 18px;
+	size: 20px;
+	line-height: 24.2px;
 }
 
 .centerH {
@@ -21,6 +24,33 @@ body {
 
 .centerimg {
 	display: block;
-    margin-left: auto;
-    margin-right: auto 
+	margin-left: auto;
+	margin-right: auto
+}
+
+.leftimg {
+	display: block;
+	text-align: left;
+	margin-left: 25px;
+}
+
+.div1 {
+	margin-left: 25px;
+	margin-right: 23px;
+}
+
+.h1 {
+	size: 40px;
+	line-height: 48.41px;
+	font-weight: normal;
+}
+
+H2 {
+	font-weight: normal;
+	size: 32px;
+}
+
+.div_right {
+	text-align: right;
+	margin-right: 6px;
 }
