@@ -1,0 +1,95 @@
+body {
+	margin: 0;
+	font-family: 'Inter', sans-serif;
+}
+
+.main_block {
+	width: 1500px;
+	margin: 0 auto;
+}
+
+.header__block {
+	margin: 0 auto;
+	max-width: 100%;
+	min-height: 700px;
+	background-image: url(../img/fone1.png);
+}
+
+.first_image {
+	margin: 144px 266px;
+}
+
+.cards {
+	text-transform: uppercase;
+	font-size: 40px;
+	font-style: normal;
+	margin-left: 112px;
+	margin-top: 32px;
+	position: relative;
+}
+
+.card {
+	width: 400px;
+	height: 460px;
+	display: inline-block;
+	background-color: #231B0C;
+	margin-right: 29px;
+}
+
+.card_img_1 {
+	position: absolute;
+	margin: 19px 113px 0px 114px;
+}
+
+.card_img_2 {
+	position: absolute;
+	margin: 184px 50px 0px 50px;
+}
+
+.footer {
+	background-color: #150F02;
+	margin-top: 40px;
+	width: 1500px;
+	height: 279px;
+	position: relative;
+}
+
+.footer_link_1 {
+	position: absolute;
+	margin: 39px 914px 0px 419px;
+}
+
+.footer_link_2 {
+	position: absolute;
+	margin: 39px 477px 0px 956px;
+}
+
+.footer_link_3 {
+	position: absolute;
+	margin: 91px 939px 0px 419px;
+}
+
+.footer_link_4 {
+	position: absolute;
+	margin: 91px 502px 0px 956px;
+}
+
+.contacts {
+	text-transform: uppercase;
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: white;
+	margin: 128px 684px 0px 686px;
+}
+
+.contacts_border {
+	position: absolute;
+	border-bottom: 10px solid #FF6B00;
+	width: 318px;
+	margin: 181px 590px 0px 592px;
+}
+
+.venice{
+	margin-top: 42px;
+}
