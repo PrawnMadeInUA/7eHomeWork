@@ -93,3 +93,15 @@ body {
 .venice{
 	margin-top: 42px;
 }
+
+.links{
+	position: absolute;
+	margin-top: 191px;
+	margin-left: 585px;
+}
+
+.links_li {
+	display: inline-block;
+	list-style: none;
+	margin-left: 32px;
+}
