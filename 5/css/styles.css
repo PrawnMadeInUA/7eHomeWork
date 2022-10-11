@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+}
+
+.header_block {
+	position: relative;
+	width: 1920px;
+	height: 65px;
+	background-color: #243B93;
+	margin: 0 auto;
+}
+
+.logo {
+	position: absolute;
+	margin: 7px 1481px 8px 299px;
+}
+
+.header_block_2 {
+	width: 1920px;
+	height: 85px;
+	background-color: #BFF0FF;
+	margin: 0 auto;
+}
+
+.menu{
+	position: absolute;
+	margin: 15px 473px 12px 597px;
+}
+.ul_menu {
+	text-transform: uppercase;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.li_menu {
+	display: inline-block;
+}
+
+.menu_links {
+	color: white;
+	text-decoration: none;
+	height: 18.8px;
+	font-family: 'PT Sans', sans-serif;
+}
